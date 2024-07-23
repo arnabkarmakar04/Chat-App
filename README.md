@@ -1,4 +1,5 @@
 This is my project "Chat App". Go through the following steps to use it.
+
 Step 1: Setting Up the Development Environment Create directories for your project: [mkdir chat-app cd chat-app mkdir backend mkdir frontend]
 
 Step 2: Backend Development Navigate to the backend directory and initialize a Node.js project: [cd backend npm init -y]
